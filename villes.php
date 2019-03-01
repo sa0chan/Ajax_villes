@@ -42,4 +42,5 @@ catch(PDOException $e)
 
 //bbla bla pour voir la diff dans git
 
-
+//encore un super test git commit - m pour sauvefarder
+// -A ajoute tout les fichier
