@@ -1,0 +1,31 @@
+afficher console dans view puis ajouter new terminal
+
+
+# Bases de la CLI bash
+
+soit on fait un wget avec le lien ou se trouve le fichier soit 
+
+ls (lister un répertoire)
+ls -la
+ls -l  : liste les répertoires et les droits d'accès sur le fichier ( drwxr...)
+si on refait ls -la afficher les répertoires même cachés
+
+cd sites/ pour rentrer dans le répertoire sites
+
+ls affiche tout les répertoires du dossier sites
+
+puis mysql -u username -p databseUsername_ < villes_france.sql
+
+et mot de passe de 3wa
+
+
+#importer une base en CLI
+
+
+mysql -u username -p databseUsername_ < villes_france.sql
+
+
+
+#Exporter une base (DUMP) en CLI
+
+mysql -u usename -p databseUsername_
