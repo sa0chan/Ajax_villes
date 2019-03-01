@@ -40,5 +40,6 @@ catch(PDOException $e)
 }
 
 
+//bbla bla pour voir la diff dans git
 
 
